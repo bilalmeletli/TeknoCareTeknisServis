@@ -15,6 +15,9 @@
 **Entity Layer:** Katmanlı mimari (DAL, BLL)
 **Responsive Tasarım:** Modern ve kullanıcı dostu arayüz.
 ## 📸 Ekran Görüntüleri
+![**Giriş Sayfası**](https://github.com/bilalmeletli/TeknoCareTeknisServis/blob/main/screenshoots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202026-01-15%20210242.png)<br/>
+![**Ana Sayfa**]()<br/>
+![
 
 
   
