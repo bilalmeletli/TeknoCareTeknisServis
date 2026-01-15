@@ -54,6 +54,9 @@ Herhangi bir sorunuz veya öneriniz varsa lütfen benimle iletişime geçin:<br/
 **Tel No:** +90 555 010 01 74<br/>
 **E-posta:** [bilalmeletli@gmail.com](bilalmeletli@gmail.com)<br/>
 
+## ▶𝚈𝚘𝚞𝚝𝚞𝚋𝚎 Video
+Youtube proje tanıtım videosu izlemek için [tıklayın](https://www.youtube.com/watch?v=IwOt0z_BKKc)
+
 
 
 
