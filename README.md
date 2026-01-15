@@ -1,4 +1,4 @@
-# TeknoCareTeknisServis
+# TeknoCareTeknikServis
   Teknik Servis yönetim işlemlerini kolaylaştıran bir masaüstü uygulamasıdır.Bu proje, servis çalışanlarının hizmetleri, müşterileri,talepleri ve istatistiki raporları kolaylıkla yönetebileceği bir platform sunar.
   ## 📌 Proje Özellikleri<br/>
 **Giriş ve Admin Paneli:** Kullanıcı doğrulaması ve admin işlevleri.<br/>
