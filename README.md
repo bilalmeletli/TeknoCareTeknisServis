@@ -1,2 +1,20 @@
 # TeknoCareTeknisServis
-Teknik Servis otomasyon sistemi
+  Teknik Servis yönetim işlemlerini kolaylaştıran bir masaüstü uygulamasıdır.Bu proje, servis çalışanlarının hizmetleri, müşterileri,talepleri ve istatistiki raporları kolaylıkla yönetebileceği bir platform sunar.
+  ## 📌 Proje Özellikleri<br/>
+**Giriş ve Admin Paneli:** Kullanıcı doğrulaması ve admin işlevleri.<br/>
+**Hizmet İşlemleri:** Hizmet bilgilerini görme, yeni hizmet ekleme ve düzenleme.<br/>
+**Personel İşlemleri:** Personel bilgilerini görme,yeni personel ekleme ve düzenleme.<br/>
+**Müşteri İşlemleri:** Müşteri bilgilerini göre, yeni müşteri ekleme ve düzenleme.<br/>
+**Talep İşlemleri:** Talepleri görüntülüyebilme, yeni talep oluşturma ve düzenleme.<br/>
+**Raporlama İşlemleri:** Taleplerin durumlarının özetlenmesi, personel performans takibi.<br/>
+
+## 📂 Kullanılan Teknolojiler<br/>
+**C#** (.NET Framework)
+**Windows Forms** (Masaüstü uygulama tasarımı)
+**MySQL** (Veritabanı)
+**Entity Layer:** Katmanlı mimari (DAL, BLL)
+**Responsive Tasarım:** Modern ve kullanıcı dostu arayüz.
+## 📸 Ekran Görüntüleri
+
+
+  
