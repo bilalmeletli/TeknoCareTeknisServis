@@ -52,7 +52,7 @@ Herhangi bir sorunuz veya öneriniz varsa lütfen benimle iletişime geçin:<br/
 **Ad:** Bilal Kemal<br/>
 **Soyad:** Meletli<br/>
 **Tel No:** +90 555 010 01 74<br/>
-**E-posta:** [bilalmeletli@gmail.com].(bilalmeletli@gmail.com)<br/>
+**E-posta:** [bilalmeletli@gmail.com](bilalmeletli@gmail.com)<br/>
 
 
 
