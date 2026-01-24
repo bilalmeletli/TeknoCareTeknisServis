@@ -25,7 +25,7 @@ Ana Sayfa,Teknik servise gelen taleplerin grafiksel dağılımını,teknik servi
 Hizmetler Sayfası, teknik servisin vermiş olduğu hizmetlere ait bilgilerin görüntülendiği sayfadır.Bu sayfada yeni bir hizmet ekleme veya mevcut hizmeti güncelleme,silme gibi işlemler yapılır.Bu sayfayı sadece admin görebilir.<br/>
 <br/>
 ![**Personel Sayfası**](https://github.com/bilalmeletli/TeknoCareTeknisServis/blob/main/screenshoots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202026-01-15%20210557.png)<br/>
-Personel sayfası,teknik serviste çalışan personellerin bilgilerini görebildiğimiz sayfadır.Bu sayfada yeni personel ekleme veya mevcut personeli güncelleme,silme gibi işlemler yapılır.BU sayfayı sadece admin görebilir.<br/>
+Personel sayfası,teknik serviste çalışan personellerin bilgilerini görebildiğimiz sayfadır.Bu sayfada yeni personel ekleme veya mevcut personeli güncelleme,silme gibi işlemler yapılır.Bu sayfayı sadece admin görebilir.<br/>
 <br/>
 ![**Müşteriler Sayfası**](https://github.com/bilalmeletli/TeknoCareTeknisServis/blob/main/screenshoots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202026-01-15%20210729.png)<br/>
 Müşteriler Sayfası,müşteri bilgilerine ulaşabildiğimiz sayfadır. Bu sayfada yeni müşteri ekleme  veya mevcut müşteriyi güncelleme,silme gibi işlemler yapılır.Bu sayfaya admin ve çağrı merkezi personeli erişebilir.<br/>
@@ -46,7 +46,7 @@ Talepler Sayfası,teknik servise gelen talepleri görebildiğimiz sayfadır.Bu s
 **UI (User Interface):** Windows Forms kullanıcı arayüzü.<br/>
 **MySQL:** Veritabanı bağlantı ve sorguları.<br/>
 
-📞 İletişim
+## 📞 İletişim<br/>
 Herhangi bir sorunuz veya öneriniz varsa lütfen benimle iletişime geçin:<br/>
 
 **Ad:** Bilal Kemal<br/>
